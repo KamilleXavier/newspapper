@@ -1,0 +1,72 @@
+.footer{
+    background: #000000;
+    margin-top: 20px;
+}
+
+.paragrafo_rodape{
+    color: #ffffff;
+    text-align: center;
+}
+
+.paragrafo_titulo_one{
+    text-align: center;
+    color: #730BB8;
+    font-size: 40px;
+}
+
+
+.font{
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Libre Baskerville';
+}
+
+.font:hover {
+  color: #730BB8;
+  text-decoration: none;
+}
+
+ .font_menu {
+      font-family: 'Cormorant', sans-serif;
+      font-size: 20px;
+  }
+
+  
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; }
+
+
+    .texto-verde {
+        color: green;
+       
+    }
+
+    .texto-vermelho {
+        color: red; 
+    
+    }
+
+    .texto-azul {
+        color: blue;
+        
+    }
+
+    .link {
+        color: blue; 
+        text-decoration: none; 
+        transition: color 0.3s; 
+    }
+
+    .link:hover {
+        color: red; 
+    }
+
+    .imagem{
+        height: 443px;
+        width: 713px;
+        background-image: url(image/imagem_bmw.jpeg);
+
+    }
