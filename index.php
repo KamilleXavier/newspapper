@@ -3,6 +3,8 @@
     include "/home/kamille/Tecnologia/newspaper_app/layout/navbar.php";
 ?>
 
+
+
 <div class="container">
         <div class="container paragrafo_titulo_one fontCard">
             <p>Principais notícias</p>
